@@ -7,8 +7,11 @@
 # Ask the user for a temperature in Celsius
 celsius = float(input("Temperature in Celsius: "))
 
-# Convert to Fahrenheit
+# Convert to Fahrenheit and Kevlin
 fahrenheit = celsius * (9 / 5) + 32
+kelvin = celsius + 273
 
 # Show the result
 print(f"{celsius} degree celsius is equal to {fahrenheit} degree fahrenheit.")
+print(f"{celsius} degree celsius is equal to {kelvin} degree kelvin.")
+
