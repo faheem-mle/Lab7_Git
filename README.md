@@ -1,4 +1,4 @@
-Project title:   Temperature Converter  -Main Version
+Project title:   Temperature Converter  -Hybrid Version
 
 Purpose:
 This program converts temperatures from Celsius to Fahrenheit, helping users quickly switch between different units of measurement.
@@ -17,3 +17,4 @@ Temperature in Celsius: 25
 Author Information:
     Author:  Faheem Ali
     Date:     October 20, 2026
+
