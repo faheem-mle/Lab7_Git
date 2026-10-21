@@ -1,4 +1,4 @@
-Project title:   Temperature Converter
+Project title:   Temperature Converter   - Feature Version
 
 Purpose:
 This program converts temperatures from Celsius to Fahrenheit, helping users quickly switch between different units of measurement.
